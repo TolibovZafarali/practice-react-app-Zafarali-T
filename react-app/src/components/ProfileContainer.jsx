@@ -17,6 +17,8 @@ const ProfileContainer = function() {
 
     return (
         <div>
+            <h1>Profiles:</h1>
+            
             <ul>
                 {globalProfiles.map((profile, index) => (
                     <p key={index}>
