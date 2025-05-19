@@ -1,0 +1,11 @@
+.Profile {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 0.5px solid;
+  border-radius: 10px;
+  padding: 10px;
+  padding-right: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 20px;
+}
